@@ -9,8 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-     background: url("https://cdn.pixabay.com/photo/2019/04/10/12/40/watercolor-4117017_1280.png") no-repeat;
-    
+     background: url("imagw.jpg") no-repeat;
+     background-position: center;
 
 }
 
